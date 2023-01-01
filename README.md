@@ -1,2 +1,0 @@
-# NSI
-Devoir de NSI
